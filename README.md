@@ -1,6 +1,6 @@
 'If you torture data long enough, it will confess to anything' 🎯 
  
-[![](https://img.shields.io/badge/LinkedIn-ravinakulan-white?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/ravi-nakulan-data-analyst/)
-[![](https://img.shields.io/badge/Slideshare-ravinakulan-white?logo=Slideshare&labelColor=black)](https://www.slideshare.net/ravinakulan)
-[![](https://img.shields.io/badge/Gmail-ravi.nakulan@gmail.com-white?logo=Gmail&logoColor=Red&labelColor=black)](mailto:ravi.nakulan@gmail.com)
-[![](https://img.shields.io/badge/YouTube-ravinakulan-white?logo=YouTube&labelColor=black)](https://youtu.be/xVa_0X4P3Ek)
+[![](https://img.shields.io/badge/LinkedIn-ravinakulan-white?logo=Linkedin&logoColor=blue&labelColor=blue)](https://www.linkedin.com/in/ravi-nakulan-data-analyst/)
+[![](https://img.shields.io/badge/Slideshare-ravinakulan-white?logo=Slideshare&labelColor=yellow)](https://www.slideshare.net/ravinakulan)
+[![](https://img.shields.io/badge/Gmail-ravi.nakulan@gmail.com-white?logo=Gmail&logoColor=Red&labelColor=orange)](mailto:ravi.nakulan@gmail.com)
+[![](https://img.shields.io/badge/YouTube-ravinakulan-white?logo=YouTube&labelColor=darkred)](https://youtu.be/xVa_0X4P3Ek)
