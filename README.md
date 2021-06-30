@@ -16,7 +16,7 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/PowerBI-282C34?logo=powerbi&logoColor=E3AE26" alt="PowerBI logo" title="PowerBI" height="25" />]
 &nbsp;
-[<img src="https://img.shields.io/badge/SQL-282C34?logo=sql&logoColor=1BB3EE" alt="SQL logo" title="SQL" height="25" />]
+[<img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=1BB3EE" alt="MySQL logo" title="MySQL" height="25" />]
 &nbsp;
 
 <a name="learning-next"></a>
