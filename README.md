@@ -14,7 +14,7 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/Tableau-282C34?logo=tableau&logoColor=3178C6" alt="Tableau logo" title="Tableau" height="25" />]
 &nbsp;
-[<img src="https://img.shields.io/badge/PowerBI-282C34?logo=powerbi&logoColor=E34F26" alt="PowerBI logo" title="PowerBI" height="25" />]
+[<img src="https://img.shields.io/badge/PowerBI-282C34?logo=powerbi&logoColor=E3AE26" alt="PowerBI logo" title="PowerBI" height="25" />]
 &nbsp;
 [<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />][tech_tools_anchor]
 &nbsp;
