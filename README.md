@@ -1,7 +1,5 @@
 ### We’re here for a reason! Here is mine. 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... Python, Tableau, PowerBI & SQL
 - 🌱 I’m currently learning ... Data Analytics and Data Science
 - 👯 I’m looking to collaborate on ... Machine Learning and Deep Learning 
