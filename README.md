@@ -1,4 +1,5 @@
 'If you torture data long enough, it will confess to anything' 🎯.
+
 [![](https://img.shields.io/badge/LinkedIn-ravinakulan-white?logo=Linkedin&logoColor=blue&labelColor=darkblue)](https://www.linkedin.com/in/ravi-nakulan-data-analyst/)
 [![](https://img.shields.io/badge/Slideshare-ravinakulan-white?logo=Slideshare&labelColor=yellow)](https://www.slideshare.net/ravinakulan)
 [![](https://img.shields.io/badge/Gmail-ravi.nakulan@gmail.com-white?logo=Gmail&logoColor=Red&labelColor=lightred)](mailto:ravi.nakulan@gmail.com)
@@ -11,11 +12,9 @@
 
 [<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=F7DF1E" alt="Python logo" title="Python" height="25" />]
 &nbsp;
-[<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=F7DF1E" alt="Python logo" title="Python" height="25" />]
-&nbsp;
 [<img src="https://img.shields.io/badge/Tableau-282C34?logo=tableau&logoColor=3178C6" alt="Tableau logo" title="Tableau" height="25" />]
 &nbsp;
-[<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/PowerBI-282C34?logo=powerbi&logoColor=E34F26" alt="PowerBI logo" title="PowerBI" height="25" />]
 &nbsp;
 [<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />][tech_tools_anchor]
 &nbsp;
