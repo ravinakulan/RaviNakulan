@@ -1,6 +1,6 @@
-# 'If you torture data long enough, it will confess to anything' 🎯.
+# 'If you torture data long enough, it will confess to anything'
 
-#### 🔍  Where to find me
+#### Where to find me
 
 [![](https://img.shields.io/badge/LinkedIn-ravinakulan-white?logo=Linkedin&logoColor=blue&labelColor=darkblue)](https://www.linkedin.com/in/ravi-nakulan-data-analyst/)
 [![](https://img.shields.io/badge/Slideshare-ravinakulan-white?logo=Slideshare&labelColor=yellow)](https://www.slideshare.net/ravinakulan)
