@@ -1,6 +1,4 @@
 'If you torture data long enough, it will confess to anything' 🎯.
-Find me 
-
 [![](https://img.shields.io/badge/LinkedIn-ravinakulan-white?logo=Linkedin&logoColor=blue&labelColor=darkblue)](https://www.linkedin.com/in/ravi-nakulan-data-analyst/)
 [![](https://img.shields.io/badge/Slideshare-ravinakulan-white?logo=Slideshare&labelColor=yellow)](https://www.slideshare.net/ravinakulan)
 [![](https://img.shields.io/badge/Gmail-ravi.nakulan@gmail.com-white?logo=Gmail&logoColor=Red&labelColor=lightred)](mailto:ravi.nakulan@gmail.com)
