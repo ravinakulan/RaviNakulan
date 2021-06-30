@@ -10,7 +10,7 @@
 
 <a name="learning-now"></a>
 
-<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=F7DF1E" alt="Python logo" title="Python" height="25" />
+[<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=F7DF1E" alt="Python logo" title="Python" height="25" />]
 &nbsp;
 [<img src="https://img.shields.io/badge/Tableau-282C34?logo=tableau&logoColor=3178C6" alt="Tableau logo" title="Tableau" height="25" />]
 &nbsp;
