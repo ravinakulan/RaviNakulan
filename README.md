@@ -18,7 +18,7 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=1BB3EE" alt="MySQL logo" title="MySQL" height="25" />]
 &nbsp;
-[<img src="https://img.shields.io/badge/R-282C34?logo=mysql&logoColor=2B76CC" alt="R logo" title="R" height="25" />]
+[<img src="https://img.shields.io/badge/R-282C34?logo=r&logoColor=2B76CC" alt="R logo" title="R" height="25" />]
 &nbsp;
 
 <a name="learning-next"></a>
