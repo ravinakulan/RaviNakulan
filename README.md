@@ -22,6 +22,8 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/R-282C34?logo=r&logoColor=2B76CC" alt="R logo" title="R" height="25" />]
 &nbsp;
+[<img src="https://img.shields.io/badge/MsExcel-282C34?logo=r&logoColor=2B76CC" alt="MsExcel logo" title="MsExcel" height="25" />]
+&nbsp;
 
 <a name="learning-next"></a>
 
