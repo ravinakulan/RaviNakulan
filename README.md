@@ -1,5 +1,5 @@
 ## 'If you torture data long enough, it will confess to anything' 
-                                              #### - Ronald Coase
+- Ronald Coase
 
 
 ##### Where to find me
