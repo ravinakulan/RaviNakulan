@@ -1,6 +1,6 @@
 # 'If you torture data long enough, it will confess to anything'
 
-#### Where to find me
+##### Where to find me
 
 [![](https://img.shields.io/badge/LinkedIn-ravinakulan-white?logo=Linkedin&logoColor=blue&labelColor=darkblue)](https://www.linkedin.com/in/ravi-nakulan-data-analyst/)
 [![](https://img.shields.io/badge/Slideshare-ravinakulan-white?logo=Slideshare&labelColor=yellow)](https://www.slideshare.net/ravinakulan)
@@ -8,7 +8,7 @@
 [![](https://img.shields.io/badge/YouTube-ravinakulan-white?logo=YouTube&labelColor=darkred)](https://youtu.be/xVa_0X4P3Ek)
 
 
-#### Tools & Techniques, I am getting better every day!
+##### Tools & Techniques, I am getting better every day!
 
 <a name="learning-now"></a>
 
