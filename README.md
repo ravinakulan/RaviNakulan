@@ -8,7 +8,7 @@
 [![](https://img.shields.io/badge/YouTube-ravinakulan-white?logo=YouTube&labelColor=darkred)](https://youtu.be/xVa_0X4P3Ek)
 
 
-#### Technologies & the Tools I am getting better every day at.
+#### Tools & Techniques, I am getting better every day!
 
 <a name="learning-now"></a>
 
