@@ -1,7 +1,5 @@
-## 'If you torture data long enough, it will confess to anything' - 
-####                                                        - Ronald Coase
-
-
+## 'If you torture data long enough, it will confess to anything' - (by Ronald Coase) 
+                                          
 ##### Where to find me
 
 [![](https://img.shields.io/badge/LinkedIn-ravinakulan-white?logo=Linkedin&logoColor=blue&labelColor=darkblue)](https://www.linkedin.com/in/ravi-nakulan-data-analyst/)
