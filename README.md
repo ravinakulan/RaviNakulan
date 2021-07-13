@@ -1,5 +1,6 @@
 ### 'If you torture data long enough, it will confess to anything' - by Ronald Coase
-                                          
+https://capsule-render.vercel.app/api? ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=capsule%20render&fontSize=90)
+
 ##### 🔍 Where to Find Me?
 
 [![](https://img.shields.io/badge/LinkedIn-ravinakulan-white?logo=Linkedin&logoColor=blue&labelColor=darkblue)](https://www.linkedin.com/in/ravi-nakulan-data-analyst/)
