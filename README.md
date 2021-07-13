@@ -1,4 +1,3 @@
-### 'If you torture data long enough, it will confess to anything' - by Ronald Coase
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20If&nbsp;you&nbsp;torture&nbsp;data&nbsp;long&nbsp;enough&nbsp;it&nbsp;will&nbsp;confess&nbsp;to&nbsp;anything&nbsp;-&nbsp;Ronald&nbsp;Coase%20&height=200&fontSize=24&textBg=true)
 
 ##### I'm a Data Analytics student and also experienced in Banking, Sales, Business Research and utilizing Analytical tools  👋.  
