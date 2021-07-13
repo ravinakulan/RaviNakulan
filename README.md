@@ -27,6 +27,6 @@
 
 <img src="https://img.shields.io/badge/Microsoft Azure-282C34?logo=microsoftazure&logoColor=008AD7" alt="Microsoft Azure logo" title="Azure" height="25" /> &nbsp;
 <img src="https://img.shields.io/badge/Azure DevOps-282C34?logo=azuredevops&logoColor=007FFF" alt="Azure DevOps logo" title="Azure DevOps" height="25" /> &nbsp;
-<img src="https://img.shields.io/badge/Microsoft Azure Fundamentals-282C34?logo=microsoftazurefundamentals&logoColor=008AD7" alt="Microsoft Azure logo" title="MS Azure Fundamental's" height="25" /> &nbsp;
+<img src="https://img.shields.io/badge/Microsoft Azure Fundamentals Certifications-282C34?logo=microsoftazurefundamentalscertifications&logoColor=008AD7" alt="Microsoft Azure logo" title="MS Azure Fundamental's" height="25" /> &nbsp;
 
 <a name="learning-next"></a>
