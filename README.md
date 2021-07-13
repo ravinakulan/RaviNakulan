@@ -25,6 +25,6 @@
 
 <a name="learning-now"></a>
 
-<img src="https://img.shields.io/badge/Microsoft Azure-282C34?logo=microsoftazure&logoColor=F7DF1E" alt="Microsoft Azure logo" title="Azure" height="25" /> &nbsp;
+<img src="https://img.shields.io/badge/Microsoft Azure-282C34?logo=microsoftazure&logoColor=008AD7" alt="Microsoft Azure logo" title="Azure" height="25" /> &nbsp;
 
 <a name="learning-next"></a>
