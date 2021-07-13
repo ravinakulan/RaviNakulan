@@ -21,3 +21,10 @@
 
 <a name="learning-next"></a>
 
+##### What else to be acquired!
+
+<a name="learning-now"></a>
+
+<img src="https://img.shields.io/badge/Azure-282C34?logo=azure&logoColor=F7DF1E" alt="Azure logo" title="Azure" height="25" /> &nbsp;
+
+<a name="learning-next"></a>
