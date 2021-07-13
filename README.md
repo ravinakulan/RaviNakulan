@@ -1,5 +1,5 @@
 ### 'If you torture data long enough, it will confess to anything' - by Ronald Coase
-![header](https://If-anything.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=if%20anything&fontSize=90)
+![header](https://If-anything.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=If%20anything&fontSize=90)
 
 ##### 🔍 Where to Find Me?
 
