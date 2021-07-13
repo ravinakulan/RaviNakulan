@@ -1,5 +1,5 @@
 ### 'If you torture data long enough, it will confess to anything' - by Ronald Coase
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20If&nbsp;you&nbsp;torture&nbsp;data&nbsp;long&nbsp;enough,&nbsp;it&nbsp;will&nbsp;confess &nbsp;to&nbsp;anything&nbsp;%20&height=100&fontSize=50&textBg=true)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20If&nbsp;you&nbsp;torture&nbsp;data&nbsp;long&nbsp;enough,&nbsp;it&nbsp;will&nbsp;confess &nbsp;to&nbsp;anything%20&height=100&fontSize=50&textBg=true)
 
 ##### I'm a Data Analytics student and also experienced in Banking, Sales, Business Research and utilizing Analytical tools  👋.  
 ###### 🎭 My perspective has changed since I have joined the field of data analytics & data science after experiencing that how the power of data shaping businesses. It has not only changed the data collection methods, but organizations are pouring the effort to extract the meaningful use of findings for various cross-functional requirements. I am creative and like to do troubleshooting hence, programming and visualization have been a perfect fit for me. 
