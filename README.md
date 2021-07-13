@@ -1,7 +1,7 @@
 ### 'If you torture data long enough, it will confess to anything' - by Ronald Coase
 
 ##### I'm a Data Analytics student and also experienced in Banking, Sales, and Business Research 👋.  
-###### My perspective has changed since I have joined the field of data analytics & data science after experiencing that how the power of data shaping businesses. It has not only changed the data collection methods, but organizations are pouring the effort to extract the meaningful use of findings for various cross-functional requirements. I am creative and like to do troubleshooting hence, programming and visualization have been a perfect fit for me. 
+###### 🎭 My perspective has changed since I have joined the field of data analytics & data science after experiencing that how the power of data shaping businesses. It has not only changed the data collection methods, but organizations are pouring the effort to extract the meaningful use of findings for various cross-functional requirements. I am creative and like to do troubleshooting hence, programming and visualization have been a perfect fit for me. 
 
 ###### 🎯 I completed Masters-2 in Eco-Innovation to learn why and how sustainability in the organization is just not only ethical but an important incentive to become effective and more agile to respond to global changes.
 
