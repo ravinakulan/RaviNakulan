@@ -1,7 +1,7 @@
 ### 'If you torture data long enough, it will confess to anything' - by Ronald Coase
 
-#### I'm a Data Analytics student and also experienced in Banking, Sales, and Business Research.  
-
+##### I'm a Data Analytics student and also experienced in Banking, Sales, and Business Research.  
+long time
 ##### 🔍 Where to Find Me?
 
 [![](https://img.shields.io/badge/LinkedIn-ravinakulan-white?logo=Linkedin&logoColor=blue&labelColor=darkblue)](https://www.linkedin.com/in/ravi-nakulan-data-analyst/)
