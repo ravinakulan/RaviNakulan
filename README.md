@@ -1,7 +1,7 @@
 ### 'If you torture data long enough, it will confess to anything' - by Ronald Coase
 
 ##### I'm a Data Analytics student and also experienced in Banking, Sales, and Business Research 👋.  
-##### My life has changed since I have joined the field of data analytics and data science after experiencing, that how the power of tools shaping businesses. It has not only changed the data collection methods but organizations looking forward to extracting the meaningful use to various cross-functional requirements effectively.  
+###### My life has changed since I have joined the field of data analytics and data science after experiencing, that how the power of tools shaping businesses. It has not only changed the data collection methods but organizations, looking forward to extracting the meaningful use to various cross-functional requirements effectively.  
 
 ##### 🔍 Where to Find Me?
 
