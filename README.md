@@ -1,6 +1,6 @@
 ### 'If you torture data long enough, it will confess to anything' - by Ronald Coase
                                           
-##### Where to Find Me?
+#####🔍 Where to Find Me?
 
 [![](https://img.shields.io/badge/LinkedIn-ravinakulan-white?logo=Linkedin&logoColor=blue&labelColor=darkblue)](https://www.linkedin.com/in/ravi-nakulan-data-analyst/)
 [![](https://img.shields.io/badge/Slideshare-ravinakulan-white?logo=Slideshare&labelColor=yellow)](https://www.slideshare.net/ravinakulan)
@@ -8,7 +8,7 @@
 [![](https://img.shields.io/badge/YouTube-ravinakulan-white?logo=YouTube&labelColor=darkred)](https://youtu.be/xVa_0X4P3Ek)
 
 
-##### Universal Data Repairing Tools: (Struggle>>Learn>>Struggle Again>>Learnt it Better!)
+#####🚀 Universal Data Repairing Tools: (Struggle>>Learn>>Struggle Again>>Learnt it Better!)
 
 <a name="learning-now"></a>
 
@@ -21,7 +21,7 @@
 
 <a name="learning-next"></a>
 
-##### What Else to be Acquired!
+#####🌱 What Else to be Acquired!
 
 <a name="learning-now"></a>
 
