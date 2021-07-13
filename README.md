@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/MySQL-282C34?logo=Mysql&logoColor=1BB3EE" alt="MySQL logo" title="MySQL" height="25" /> &nbsp;
 <img src="https://img.shields.io/badge/R-282C34?logo=r&logoColor=2B76CC" alt="R logo" title="R" height="25" /> &nbsp;
 <img src="https://img.shields.io/badge/Microsoft Excel-282C34?logo=microsoftexcel&logoColor=6CC644" alt="Miscrosoft Excel logo" title="Microsoft Excel" height="25" /> &nbsp;
-<img src="https://img.shields.io/badge/Microsoft Power Apps-282C34?logo=microsoftpowerapps&logoColor=E3AE26" alt="Microsoft Power Apps logo" title="Microsoft Power Apps" height="25" /> &nbsp;
+<img src="https://img.shields.io/badge/Microsoft Power Apps-282C34?logo=MicrosoftPowerApps&logoColor=E3AE26" alt="Microsoft Power Apps logo" title="Microsoft Power Apps" height="25" /> &nbsp;
 
 <a name="learning-next"></a>
 
