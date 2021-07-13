@@ -1,5 +1,6 @@
 ### 'If you torture data long enough, it will confess to anything' - by Ronald Coase
 
+#### I'm a Data Analytics student and also experienced in Banking, Sales, and Business Research.  
 
 ##### 🔍 Where to Find Me?
 
