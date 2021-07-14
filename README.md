@@ -5,7 +5,7 @@
 
 ##### :1st_place_medal: I completed Masters-2 in Eco-Innovation to learn why and how sustainability in the organization is just not only ethical, but it creates incentive to become effective and agile to respond to global changes.
 
-##### 🖋 Currently pursuing post-graduation in Data Analytics for business decision-making and fortunate to learn various use cases to be prepared for my next challenge. Looking forward to sharing my skills and ability to make changes with a great team. 
+##### :black_nib: Currently pursuing post-graduation in Data Analytics for business decision-making and fortunate to learn various use cases to be prepared for my next challenge. Looking forward to sharing my skills and ability to make changes with a great team. 
       
 
 ##### 🔍 Where to Find Me?
