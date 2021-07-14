@@ -8,7 +8,7 @@
 ##### Currently pursuing post-graduation in Data Analytics for business decision-making :black_nib: and fortunate to learn various use cases to be prepared for my next challenge. Looking forward to sharing my skills and ability to make a difference and positive impact under the great team. 
       
 
-##### 🔍 Where to <u> Find </u> Me?
+##### 🔍 Where to Find Me?
 
 [![](https://img.shields.io/badge/LinkedIn-ravinakulan-white?logo=Linkedin&logoColor=blue&labelColor=darkblue)](https://www.linkedin.com/in/ravi-nakulan-data-analyst/)
 [![](https://img.shields.io/badge/Slideshare-ravinakulan-white?logo=Slideshare&labelColor=yellow)](https://www.slideshare.net/ravinakulan)
