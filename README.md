@@ -3,7 +3,7 @@
 ##### I'm a Data Analytics student :man_student: and have gained experienced in Banking | Sales | Business Research |  Business Analytical Tools :wave:  
 ##### :rainbow: My perspective has changed since I have joined the field of data analytics & data science after experiencing that how the power of data shaping businesses and the world. It has not only changed the data collection methods and importance of good governance, but organizations are reinforcing and doubling the effort to extract the meaningful insights across various cross-functional business requirements. I look for creativity and like doing troubleshooting hence, programming & visualization have been a perfect fit for me. 
 
-##### 🎯 I completed Masters-2 in Eco-Innovation to learn why and how sustainability in the organization is just not only ethical, but it creates incentive to become effective and agile to respond to global changes.
+##### :1st_place_medal: I completed Masters-2 in Eco-Innovation to learn why and how sustainability in the organization is just not only ethical, but it creates incentive to become effective and agile to respond to global changes.
 
 ##### 🖋 Currently pursuing post-graduation in Data Analytics for business decision-making and fortunate to learn various use cases to be prepared for my next challenge. Looking forward to sharing my skills and ability to make changes with a great team. 
       
