@@ -20,10 +20,10 @@
 <a name="learning-now"></a>
 
 <img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=F7DF1E" alt="Python logo" title="Python" height="22" /> &nbsp;
+<img src="https://img.shields.io/badge/R-282C34?logo=r&logoColor=2B76CC" alt="R logo" title="R" height="22" /> &nbsp;
 <img src="https://img.shields.io/badge/Tableau-282C34?logo=tableau&logoColor=474747rgb" alt="Tableau logo" title="Tableau" height="22" /> &nbsp;
 <img src="https://img.shields.io/badge/PowerBI-282C34?logo=powerbi&logoColor=E3AE26" alt="PowerBI logo" title="PowerBI" height="22" /> &nbsp;
 <img src="https://img.shields.io/badge/MySQL-282C34?logo=Mysql&logoColor=1BB3EE" alt="MySQL logo" title="MySQL" height="22" /> &nbsp;
-<img src="https://img.shields.io/badge/R-282C34?logo=r&logoColor=2B76CC" alt="R logo" title="R" height="22" /> &nbsp;
 <img src="https://img.shields.io/badge/Microsoft Excel-282C34?logo=microsoftexcel&logoColor=6CC644" alt="Miscrosoft Excel logo" title="Microsoft Excel" height="22" /> &nbsp;
 
 <a name="learning-next"></a>
