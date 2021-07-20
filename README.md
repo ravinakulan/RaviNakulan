@@ -20,7 +20,7 @@
 <a name="learning-now"></a>
 
 <img src="https://img.shields.io/badge/ClicData-282C34?logo=ClicData&logoColor=F7DF1E" alt="ClicData logo" title="ClicData" height="22" /> &nbsp;
-<img src="https://img.shields.io/badge/MySQL-282C34?logo=Mysql&logoColor=1BB3EE" alt="MySQL logo" title="MySQL" height="22" /> &nbsp;
+<img src="https://img.shields.io/badge/MSSQL-282C34?logo=Mysql&logoColor=1BB3EE" alt="MSSQL logo" title="MSSQL" height="22" /> &nbsp;
 <img src="https://img.shields.io/badge/Microsoft Excel-282C34?logo=microsoftexcel&logoColor=6CC644" alt="Miscrosoft Excel logo" title="Microsoft Excel" height="22" /> &nbsp;
 <img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=F7DF1E" alt="Python logo" title="Python" height="22" /> &nbsp;
 <img src="https://img.shields.io/badge/Tableau-282C34?logo=tableau&logoColor=474747rgb" alt="Tableau logo" title="Tableau" height="22" /> &nbsp;
