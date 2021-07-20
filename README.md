@@ -7,7 +7,7 @@
 
 ##### Currently pursuing post-graduation in Data Analytics for business decision-making :black_nib: and fortunate to learn various use cases during the academic to be better prepared for upcoming challenges. Looking forward to sharing my skills and ability to make a difference and leave a positive impact on my dream team.
 
-##### And yes, don't forget to hit and explore the 'ClicData'. We are 100% cloud based platform designed to serve the purpose across many organizations which allows ClicData to fulfill the business needs with greater business intelligence tools and techniques.  
+##### And yes, don't forget to hit and explore the 'ClicData'. We are a 100% cloud-based platform designed and built to serve and exceed the objectives across multiple organizations, which allows ‘ClicData’ to fulfill business needs by enhancing the result with our pioneer business intelligence tools by creating attractive dashboards and reports.  
 
 ##### 🔍 Where to Find Me?
 
