@@ -19,7 +19,6 @@
 
 <a name="learning-now"></a>
 
-<img src="io/badge/ClicData-282C34?logo=ClicData&logoColor=F7DF1E" alt="ClicData logo" title="ClicData" height="22" /> &nbsp;
 <img src="https://img.shields.io/badge/ClicData-282C34?logo=ClicData&logoColor=F7DF1E" alt="ClicData logo" title="ClicData" height="22" /> &nbsp;
 <img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=F7DF1E" alt="Python logo" title="Python" height="22" /> &nbsp;
 <img src="https://img.shields.io/badge/R-282C34?logo=r&logoColor=2B76CC" alt="R logo" title="R" height="22" /> &nbsp;
