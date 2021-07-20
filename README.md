@@ -19,8 +19,10 @@
 
 <a name="learning-now"></a>
 
-[![](https://img.shields.io/badge/MySQL-yellow?logo=MySQL&logoColor=yellow&labelColor=white)](https://www.mysql.com/downloads/)
 [![](https://img.shields.io/badge/ClicData-darkred?logo=ClicData&logoColor=darkred&labelColor=gray)](https://www.clicdata.com/)
+[![](https://img.shields.io/badge/MySQL-yellow?logo=MySQL&logoColor=yellow&labelColor=white)](https://www.mysql.com/downloads/)
+[![](https://img.shields.io/badge/Python-darkyellow?logo=Python&logoColor=darkyellow&labelColor=blue)](https://www.python.org/downloads/)
+
 <img src="https://img.shields.io/badge/Microsoft Excel-282C34?logo=microsoftexcel&logoColor=6CC644" alt="Miscrosoft Excel logo" title="Microsoft Excel" height="22" /> &nbsp;
 <img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=F7DF1E" alt="Python logo" title="Python" height="22" /> &nbsp;
 <img src="https://img.shields.io/badge/Tableau-282C34?logo=tableau&logoColor=474747rgb" alt="Tableau logo" title="Tableau" height="22" /> &nbsp;
