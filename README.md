@@ -25,7 +25,7 @@
 [![](https://img.shields.io/badge/Python-yellow?logo=Python&logoColor=yellow&labelColor=blue)](https://www.python.org/downloads/)
 [![](https://img.shields.io/badge/Tableau-red?logo=tableau&logoColor=red&labelColor=white)](https://www.tableau.com/products/desktop/download)
 [![](https://img.shields.io/badge/PowerBI-yellow?logo=PowerBI&logoColor=yellow&labelColor=gray)](https://powerbi.microsoft.com/en-ca/downloads/)
-[![](https://img.shields.io/badge/-R-blue?logo=R&logoColor=blue&labelColor=gray)](https://cran.r-project.org/bin/windows/base/)
+[![](https://img.shields.io/badge/---R-blue?logo=   R&logoColor=blue&labelColor=gray)](https://cran.r-project.org/bin/windows/base/)
 
 <a name="learning-next"></a>
 
