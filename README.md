@@ -20,7 +20,7 @@
 <a name="learning-now"></a>
 
 
-[![](https://img.shields.io/badge/HackerRank-ayushkumar__25-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/ayushkumar_25)
+[![](https://img.shields.io/badge/ClicData-RaviNakulan-brightgreen?logo=ClicData&logoColor=Green&labelColor=black)]
 
 <img src="https://img.shields.io/badge/ClicData-282C34?logo=ClicData&logoColor=F7DF1E" alt="ClicData logo" title="ClicData" height="22" /> &nbsp;
 <img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=F7DF1E" alt="Python logo" title="Python" height="22" /> &nbsp;
