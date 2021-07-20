@@ -19,7 +19,7 @@
 
 <a name="learning-now"></a>
 
-[![](https://img.shields.io/badge/LinkedIn-ravinakulan-white?logo=MySQL&logoColor=white&labelColor=blue)](https://www.mysql.com/downloads/)
+[![](https://img.shields.io/badge/MySQL-white?logo=MySQL&logoColor=white&labelColor=blue)](https://www.mysql.com/downloads/)
 <img src="https://img.shields.io/badge/ClicData-282C34?logo=ClicData&logoColor=F7DF1E" alt="ClicData logo" title="ClicData" height="22" /> &nbsp;
 <img src="https://img.shields.io/badge/MySQL-282C34?logo=MySQL&logoColor=F7DF1E" alt="MySQL logo" title="MySQL" height="22" /> &nbsp;
 <img src="https://img.shields.io/badge/Microsoft Excel-282C34?logo=microsoftexcel&logoColor=6CC644" alt="Miscrosoft Excel logo" title="Microsoft Excel" height="22" /> &nbsp;
