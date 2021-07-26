@@ -1,15 +1,19 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20If&nbsp;you&nbsp;torture&nbsp;the&nbsp;data&nbsp;long&nbsp;enough,&nbsp;it&nbsp;will&nbsp;confess&nbsp;to&nbsp;anything&nbsp;-&nbsp;Ronald&nbsp;Coase%20&height=80&fontSize=20&textBg=true)
 
-##### I'm a Data Analytics student :man_student: and have accumulated experience in **Banking | Sales | Business Research |  Business Analytical Tools**.
+##### I'm a Data Analyst and have accumulated experience in **Banking | Sales | Business Research |  Business Analytical Tools**.
 ##### My perspective has changed :rainbow: since I have joined the field of data analytics & data science after experiencing that how the power of data shaping businesses and the world. It has not only changed the data collection methods and importance of good governance, but organizations are reinforcing and doubling the effort to extract the meaningful insights across various cross-functional business requirements. I look for creativity and like doing troubleshooting hence, programming & visualization have been a perfect fit for me. 
 
 #####  I have completed Masters-2 in Eco-Innovation :1st_place_medal: to learn why and how a sustainability in the organization is just not only ethical, but it creates incentive to become effective and agile to respond to global changes.
 
-##### Currently pursuing post-graduation in Data Analytics for business decision-making :black_nib: and fortunate to learn various use cases during the academic to be better prepared for upcoming challenges. Looking forward to sharing my skills and ability to make a difference and leave a positive impact on my dream team.
+#### This is what I am doing :point_down:
 
-##### And yes, don't forget to hit and explore the 'ClicData'. We are a 100% cloud-based platform designed and built to serve and exceed the objectives across multiple organizations, which allows ‘ClicData’ to fulfill business needs by enhancing the result with our pioneer business intelligence tools by creating, attractive dashboards and reports. Happy Clicking!
+##### Currently pursuing post-graduation in Data Analytics for business decision-making :black_nib: and fortunate to learn various use cases during the academic projects to be better prepared for upcoming challenges. Looking forward to sharing my skills and ability to make a difference and leave a positive impact on my dream team 'ClicData'.
 
-##### 🔍 Where to Find Me?
+##### Excited about my first opportunity with ClicData, where we meet the expectations of our B2B clients and assist them in exceeding the business objectives... so, please don't forget to hit and explore the 'ClicData'. We are a 100% cloud-based platform designed and built to serve and exceed the objectives across multiple organizations, which allows ‘ClicData’ to fulfill business needs by enhancing the result with our proprietary business intelligence tools while creating attractive yet meaningful dashboards and reports. We are the world's first 100% Cloud-based BI platform and it's an End-to-End tool. We connect to more than 200+ sources and we have ETL tool on top of your dataset to build features and leverage the dataset before throwing it into the canvas to visualize. We also have 50+ optics to visualize your data and later automate and share with the team or the customers.
+
+##Happy Clicking! https://www.clicdata.com/product/dashboards/designer/
+
+##### 🔍 Where to Find Me and some of My Work?
 
 [![](https://img.shields.io/badge/LinkedIn-ravinakulan-white?logo=Linkedin&logoColor=white&labelColor=blue)](https://www.linkedin.com/in/ravi-nakulan-data-analyst/)
 [![](https://img.shields.io/badge/Slideshare-ravinakulan-white?logo=Slideshare&labelColor=orange)](https://www.slideshare.net/ravinakulan)
