@@ -1,8 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20If&nbsp;you&nbsp;torture&nbsp;the&nbsp;data&nbsp;long&nbsp;enough,&nbsp;it&nbsp;will&nbsp;confess&nbsp;to&nbsp;anything&nbsp;-&nbsp;Ronald&nbsp;Coase%20&height=80&fontSize=20&textBg=true)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20If&nbsp;you&nbsp;torture&nbsp;the&nbsp;data&nbsp;long&nbsp;enough,&nbsp;it&nbsp;will&nbsp;confess&nbsp;to&nbsp;anything&nbsp;-&nbsp;Ronald&nbsp;Coase%20&height=90&fontSize=20&textBg=true)
 
 ### About Me
-![About Me](https://user-images.githubusercontent.com/86074953/128565621-fc98ff34-a774-4601-870e-fe15c595c776.png)
-
+![6 Months](https://user-images.githubusercontent.com/86074953/128566227-b1105b9f-2f02-41d9-b35d-236bbab85776.png)
 ##### I'm a Data Analyst and have accumulated experience in **Banking | Sales | Business Research |  Business Analytical Tools**.
 ##### My perspective has changed :rainbow: since I have joined the field of 'data analytics & data science' after experiencing that how the power of data is shaping businesses and the world. It has not only changed the data collection methods but also has enchanced the importance of  good governance. Organizations are reinforcing and doubling the effort to extract the meaningful insights across various cross-functional operations. I look for creativity and like doing troubleshooting hence, programming & visualization have been a perfect fit for me. I have also completed Masters-2 in Eco-Innovation :1st_place_medal: to learn why and how a sustainability in the organization is just not only ethical, but it creates incentive to become effective and agile to respond to global changes.
 
