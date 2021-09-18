@@ -8,11 +8,7 @@
 
 ##### This is what I am doing :point_down:
 
-##### Currently pursuing post-graduation in Data Analytics for business decision-making :black_nib: and fortunate to learn various use cases during the academic projects to be better prepared for upcoming challenges. Looking forward to sharing my skills and ability to make a difference and leave a positive impact on my dream team 'ClicData'.
-
-##### Excited about my first opportunity with ClicData, where we meet the expectations of our B2B clients and assist them in exceeding the business objectives... so, please don't forget to hit and explore the 'ClicData'. We are a 100% cloud-based platform designed and built to serve and exceed the objectives across multiple organizations, which allows ‘ClicData’ to fulfill business needs by enhancing the result with our proprietary business intelligence tools while creating attractive yet meaningful dashboards and reports. We are the world's first 100% Cloud-based BI platform and it's an End-to-End tool. We connect to more than 200+ sources and we have ETL tool on top of your dataset to build features and leverage the dataset before throwing it into the canvas to visualize. We also have 50+ optics to visualize your data and later automate and share with the team or the customers.
-
-##### Happy Clicking!            https://www.clicdata.com/product/dashboards/designer/ :computer_mouse:
+##### Currently looking for an opportunity to establish myself in the path of data analytics. Thank you stopping by and looking at my profile.
 
 ##### 🔍 Here to Find Some of My Work and to Stay Connected!
 
